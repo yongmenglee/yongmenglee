@@ -4,7 +4,7 @@ Master student in Data Science & Analytics.
 
 Lifelong learner.
 
-LinkedIn: [yongmenglee](www.linkedin.com/in/yongmenglee)
+LinkedIn: [yongmenglee](https://www.linkedin.com/in/yongmenglee/)
 
 📚🎶
 

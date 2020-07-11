@@ -4,8 +4,8 @@ Master student in Data Science & Analytics.
 
 Lifelong learner.
 
-LinkedIn: [@yongmenglee](https://www.linkedin.com/in/yongmenglee/)
-Telegram: (@yongmengl)[https://t.me/yongmengl]
+LinkedIn: [@yongmenglee](https://www.linkedin.com/in/yongmenglee/)<br />
+Telegram: [@yongmengl](https://t.me/yongmengl)
 
 📚🎶
 

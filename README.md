@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 
+
+Master student in Data Science & Analytics.
+
+Lifelong learner.
+
+📚🎶
 
 <!--
 **yongmenglee/yongmenglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

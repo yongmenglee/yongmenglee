@@ -1,7 +1,5 @@
 ![Github image](https://media-exp1.licdn.com/dms/image/C5116AQGk7cQxIcowVA/profile-displaybackgroundimage-shrink_350_1400/0?e=1599696000&v=beta&t=EvSWR2ghM7_GCOukr5BT6noS163GHvVhD6pm8rUGPXU)
 
-Master student in Data Science & Analytics.
-
 Lifelong learner.
 
 LinkedIn: [@yongmenglee](https://www.linkedin.com/in/yongmenglee/)<br />
